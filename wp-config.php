@@ -38,6 +38,8 @@ define( 'DB_CHARSET', 'utf8' );
 /** The database collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', '' );
 
+define('JWT_AUTH_SECRET_KEY', '59k86c3vBK}u5U6@bf&,M%;?D.meG2WCiW%P#!~$.$au-38K/!BWH6)F?6kiKM0|');
+
 /**#@+
  * Authentication unique keys and salts.
  *
